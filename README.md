@@ -84,10 +84,9 @@ python love_calculator.py
 
 ---
 
-## 👨‍💻 Author
 
-**Ritesh Patwa**
+## Author By 
+         Ritesh Patwa
 
----
 
 ⭐ If you like this project, please **star the repository**!
